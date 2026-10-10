@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Привет Саня!");
-Console.WriteLine("Ты красавчик!");
+Console.WriteLine("Ты !");
